@@ -1,4 +1,4 @@
-/// Parses duration string formatted by [prettyDuration] into [Duration].
+/// Parses duration string formatted by [prettyDuration] into [Duration] (in abbreviated mode).
 /// [separator] defines the string that splits duration components in the string.
 ///
 /// Example:
